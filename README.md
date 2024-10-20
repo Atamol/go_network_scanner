@@ -1,8 +1,7 @@
 # Advanced Network Scanner
 
-A high-performance network scanning tool written in Go.  
-Attempts a TCP connection within the specified host and port range and lists open ports.  
-High-speed scanning using parallel processing.
+指定したホストとポート範囲内でTCP接続を試み，開いているポートをリストアップする．
+並行処理を利用して高速なスキャンを実現した．
 
 ## H2U
 
