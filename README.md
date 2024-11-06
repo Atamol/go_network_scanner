@@ -1,4 +1,4 @@
-# Advanced Network Scanner
+# Go Network Scanner
 
 指定したホストとポート範囲内でTCP接続を試み，開いているポートをリストアップする．  
 
